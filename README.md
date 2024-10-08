@@ -21,3 +21,10 @@
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white" />
 </p>
+
+<h3>Currently working on</h3>
+  
+```
+├── Portfolio Website/
+├── Several Uni course projects/
+```
