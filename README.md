@@ -20,6 +20,7 @@
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" />
+<img alt="C Sharp" src"https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 <h3>Currently working on</h3>
