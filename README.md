@@ -27,5 +27,6 @@
   
 ```
 ├── Portfolio Website/
-├── Several Uni course projects/
+├── Looking for internship 25 spring/summer/
+├── FSOpen/
 ```
