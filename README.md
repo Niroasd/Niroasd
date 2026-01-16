@@ -27,6 +27,6 @@
   
 ```
 ├── Portfolio Website/
-├── Looking for internship 25 spring/summer/
+├── Looking for internship/thesis
 ├── FSOpen/
 ```
